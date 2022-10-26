@@ -1,8 +1,10 @@
 ﻿using System;
 
-public class String_Methods
+namespace Hello
 {
-	public()
-	{
-	}
+    class String_Methods
+    {
+
+    }
 }
+ 

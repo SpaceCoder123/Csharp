@@ -174,17 +174,20 @@ namespace Hello
             //{
             //    Console.WriteLine(j);
             //}
-            greet();
-            GreetWithName("Mohan");
-            double AverageNumber = Average(1, 2, 4);
-            double AverageNumber2 = Average(1, 2);
+            //greet();
+            //GreetWithName("Mohan");
+            //double AverageNumber = Average(1, 2, 4);
+            //double AverageNumber2 = Average(1, 2);
 
 
-            Console.WriteLine(AverageNumber);
-            Console.WriteLine(AverageNumber2);
+            //Console.WriteLine(AverageNumber);
+            //Console.WriteLine(AverageNumber2);
             // note the name of the methods are same and therefore it is called method-overloading 
 
             // the inputs are different and therefore the functions chosen are different 
+
+
+            Console.ReadKey(); // this will read the key entered by keyboard
 
             Console.ReadLine();
 
