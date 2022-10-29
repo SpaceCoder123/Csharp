@@ -1,0 +1,7 @@
+D:\C#\Arrays\obj\Debug\net6.0-windows\Arrays.csproj.AssemblyReference.cache
+D:\C#\Arrays\obj\Debug\net6.0-windows\Arrays.Form1.resources
+D:\C#\Arrays\obj\Debug\net6.0-windows\Arrays.csproj.GenerateResource.cache
+D:\C#\Arrays\obj\Debug\net6.0-windows\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Arrays\obj\Debug\net6.0-windows\Arrays.AssemblyInfoInputs.cache
+D:\C#\Arrays\obj\Debug\net6.0-windows\Arrays.AssemblyInfo.cs
+D:\C#\Arrays\obj\Debug\net6.0-windows\Arrays.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+D:\C#\Loops\bin\Debug\net6.0-windows\Loops.exe
+D:\C#\Loops\bin\Debug\net6.0-windows\Loops.deps.json
+D:\C#\Loops\bin\Debug\net6.0-windows\Loops.runtimeconfig.json
+D:\C#\Loops\bin\Debug\net6.0-windows\Loops.dll
+D:\C#\Loops\bin\Debug\net6.0-windows\Loops.pdb
+D:\C#\Loops\obj\Debug\net6.0-windows\Loops.csproj.AssemblyReference.cache
+D:\C#\Loops\obj\Debug\net6.0-windows\Loops.Form1.resources
+D:\C#\Loops\obj\Debug\net6.0-windows\Loops.csproj.GenerateResource.cache
+D:\C#\Loops\obj\Debug\net6.0-windows\Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Loops\obj\Debug\net6.0-windows\Loops.AssemblyInfoInputs.cache
+D:\C#\Loops\obj\Debug\net6.0-windows\Loops.AssemblyInfo.cs
+D:\C#\Loops\obj\Debug\net6.0-windows\Loops.csproj.CoreCompileInputs.cache
+D:\C#\Loops\obj\Debug\net6.0-windows\Loops.dll
+D:\C#\Loops\obj\Debug\net6.0-windows\refint\Loops.dll
+D:\C#\Loops\obj\Debug\net6.0-windows\Loops.pdb
+D:\C#\Loops\obj\Debug\net6.0-windows\Loops.genruntimeconfig.cache
+D:\C#\Loops\obj\Debug\net6.0-windows\ref\Loops.dll
