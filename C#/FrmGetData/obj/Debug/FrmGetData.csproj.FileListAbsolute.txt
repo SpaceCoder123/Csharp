@@ -1,0 +1,12 @@
+D:\C#\FrmGetData\bin\Debug\FrmGetData.exe.config
+D:\C#\FrmGetData\bin\Debug\FrmGetData.exe
+D:\C#\FrmGetData\bin\Debug\FrmGetData.pdb
+D:\C#\FrmGetData\obj\Debug\FrmGetData.csproj.AssemblyReference.cache
+D:\C#\FrmGetData\obj\Debug\FrmGetData.csproj.SuggestedBindingRedirects.cache
+D:\C#\FrmGetData\obj\Debug\FrmGetData.frm_show_data.resources
+D:\C#\FrmGetData\obj\Debug\FrmGetData.Properties.Resources.resources
+D:\C#\FrmGetData\obj\Debug\FrmGetData.csproj.GenerateResource.cache
+D:\C#\FrmGetData\obj\Debug\FrmGetData.csproj.CoreCompileInputs.cache
+D:\C#\FrmGetData\obj\Debug\FrmGetData.exe
+D:\C#\FrmGetData\obj\Debug\FrmGetData.pdb
+D:\C#\FrmGetData\obj\Debug\FrmGetData.Form1.resources

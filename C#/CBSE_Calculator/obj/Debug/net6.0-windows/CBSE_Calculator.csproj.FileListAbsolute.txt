@@ -1,0 +1,7 @@
+D:\C#\CBSE_Calculator\obj\Debug\net6.0-windows\CBSE_Calculator.csproj.AssemblyReference.cache
+D:\C#\CBSE_Calculator\obj\Debug\net6.0-windows\CBSE_Calculator.MainForm.resources
+D:\C#\CBSE_Calculator\obj\Debug\net6.0-windows\CBSE_Calculator.csproj.GenerateResource.cache
+D:\C#\CBSE_Calculator\obj\Debug\net6.0-windows\CBSE_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CBSE_Calculator\obj\Debug\net6.0-windows\CBSE_Calculator.AssemblyInfoInputs.cache
+D:\C#\CBSE_Calculator\obj\Debug\net6.0-windows\CBSE_Calculator.AssemblyInfo.cs
+D:\C#\CBSE_Calculator\obj\Debug\net6.0-windows\CBSE_Calculator.csproj.CoreCompileInputs.cache
