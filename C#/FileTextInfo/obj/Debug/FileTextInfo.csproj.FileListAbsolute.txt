@@ -1,0 +1,11 @@
+D:\C#\FileTextInfo\bin\Debug\FileTextInfo.exe.config
+D:\C#\FileTextInfo\bin\Debug\FileTextInfo.exe
+D:\C#\FileTextInfo\bin\Debug\FileTextInfo.pdb
+D:\C#\FileTextInfo\obj\Debug\FileTextInfo.csproj.AssemblyReference.cache
+D:\C#\FileTextInfo\obj\Debug\FileTextInfo.csproj.SuggestedBindingRedirects.cache
+D:\C#\FileTextInfo\obj\Debug\FileTextInfo.Form1.resources
+D:\C#\FileTextInfo\obj\Debug\FileTextInfo.Properties.Resources.resources
+D:\C#\FileTextInfo\obj\Debug\FileTextInfo.csproj.GenerateResource.cache
+D:\C#\FileTextInfo\obj\Debug\FileTextInfo.csproj.CoreCompileInputs.cache
+D:\C#\FileTextInfo\obj\Debug\FileTextInfo.exe
+D:\C#\FileTextInfo\obj\Debug\FileTextInfo.pdb
