@@ -1,0 +1,12 @@
+D:\PersonalTracker\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\PersonalTracker\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\PersonalTracker\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\PersonalTracker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\PersonalTracker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalTracker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\PersonalTracker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\PersonalTracker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\PersonalTracker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\PersonalTracker\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\PersonalTracker\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\PersonalTracker\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll

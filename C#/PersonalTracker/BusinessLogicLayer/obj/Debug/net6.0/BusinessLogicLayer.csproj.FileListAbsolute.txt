@@ -1,0 +1,15 @@
+D:\PersonalTracker\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.deps.json
+D:\PersonalTracker\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.dll
+D:\PersonalTracker\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.pdb
+D:\PersonalTracker\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\PersonalTracker\BusinessLogicLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\PersonalTracker\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\PersonalTracker\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalTracker\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\PersonalTracker\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\PersonalTracker\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\PersonalTracker\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CopyComplete
+D:\PersonalTracker\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.dll
+D:\PersonalTracker\BusinessLogicLayer\obj\Debug\net6.0\refint\BusinessLogicLayer.dll
+D:\PersonalTracker\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.pdb
+D:\PersonalTracker\BusinessLogicLayer\obj\Debug\net6.0\ref\BusinessLogicLayer.dll
